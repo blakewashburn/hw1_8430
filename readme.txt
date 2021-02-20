@@ -31,7 +31,8 @@ line of code that grabs the dataset. It is provided below:
 trainingSet = datasets.MNIST('', train=True, download=False, ...)
 To download the dataset, change the download option to True. This is done 
 for you in the first source code file (Part1_TrainOnActualTask.ipynb). 
-You will need internet connect to download the dataset.
+You will need internet connect to download the dataset. I would have
+uploaded the dataset to this Github, but the file was much too large. 
 
 To run the following .ipynb files, open juyper notbooks in an enviornment with
 the above packages installed and run the cells in the file from top to bottom. 
